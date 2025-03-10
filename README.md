@@ -1,5 +1,5 @@
 # awesome-procgen
-awesome procedural generation
+awesome procedural generation and simulation
 
 ## Terrain
 
@@ -48,3 +48,13 @@ awesome procedural generation
 
 #### [Gaea 2](https://quadspinner.com/) (Paid)
 - Erosion
+
+### Sociology
+
+#### [Schelling's model of segregation (Wikipedia)](https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation)
+- Interactive playground: [Parable of The Polygons](https://ncase.me/polygons/)
+
+#### The Evolution of Cooperation
+- Interactive playground: [The Evolution of Trust](https://ncase.me/trust/)
+
+#### [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
