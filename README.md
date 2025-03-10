@@ -1,6 +1,7 @@
 # awesome-procgen
 awesome procedural generation and simulation
 
+
 ## Terrain
 
 ### Fractal
@@ -24,6 +25,8 @@ awesome procedural generation and simulation
 - [Heightmap](https://azgaar.wordpress.com/2017/04/01/heightmap/)
     - Particle deposition
 - [Confluences](https://azgaar.wordpress.com/2017/05/27/confluences/)
+
+#### [Perilous Shores](https://watabou.github.io/realm.html)
 
 #### [Here Dragons Abound](https://heredragonsabound.blogspot.com/)
 
@@ -49,7 +52,13 @@ awesome procedural generation and simulation
 #### [Gaea 2](https://quadspinner.com/) (Paid)
 - Erosion
 
-### Sociology
+
+## City/Buildings
+
+#### [Procgen Arcana](https://watabou.github.io/index.html)
+
+
+## Sociology
 
 #### [Schelling's model of segregation (Wikipedia)](https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation)
 - Interactive playground: [Parable of The Polygons](https://ncase.me/polygons/)
@@ -58,3 +67,11 @@ awesome procedural generation and simulation
 - Interactive playground: [The Evolution of Trust](https://ncase.me/trust/)
 
 #### [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
+
+
+## Game
+
+- Dwarf Fortress
+- RimWorld
+- Minecraft
+- Crusader Kings 3
