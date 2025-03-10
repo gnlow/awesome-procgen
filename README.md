@@ -69,6 +69,16 @@ awesome procedural generation and simulation
 #### [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 
 
+## Linguistics
+
+#### [Vulgarlang](https://www.vulgarlang.com/)
+- Conlang generator
+
+#### [Pink Trombone](https://www.vulgarlang.com/)
+- Speech Synthesis
+- [Text to Speech](https://pink-trombone-demos.glitch.me/)
+
+
 ## Game
 
 - Dwarf Fortress
